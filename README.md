@@ -1,7 +1,13 @@
-# Project Dashboard
+# ML Hospital Stay Description
 
 > *¡¡Hola!!, Welcome!*
 > 
+
+Puedes visualizar esta descripción completa en Notion aquí:
+
+You can visualize this full description in Notion here: 
+
+[ML Hospital Stay Description](https://www.notion.so/ML-Hospital-Stay-Description-61be0eb3402b4381aebe521582fb9f64)
 
 **RESUMEN DEL PROYECTO**
 
@@ -13,7 +19,7 @@ Para el desarrollo del modelo debo categorizar la estadía del paciente como ext
 
 **PROJECT SUMMARY**
 
-Second individual project developed at Henry.
+**Second individual project, developed at Henry.**
 
 An important Health Center hired my services to predict whether a patient will be hospitalized for a long time or not, to manage the available resources at the time of admission. For this, I have been given datasets containing a sample of the medical history of patients who have been previously admitted.
 
@@ -21,11 +27,13 @@ To develop the model, I must categorize the patient's stay as extended if it is 
 
 ---
 
+### DESAROLLO DEL PROYECTO
+
+El proyecto se desarrolló en un notebook de Google Colab, en el que se describe todo el proceso de EDA (análisis exploratorio de los datos), preparación de los datos para cada modelo y su implementación.
+
 ### PROJECT DEVELOPMENT
 
-[Client Page](https://www.notion.so/Client-Page-3b7ffae5d87141ae804f4869c80ace5f)
-
----
+The project was developed on a Google Colab notebook, which describes the entire EDA (Exploratory Data Analysis) process, the data preparation for each model and its implementation.
 
 ---
 
@@ -33,7 +41,7 @@ To develop the model, I must categorize the patient's stay as extended if it is 
 
 *The template used  in this description is provided by Team Number 5 at Notion!* 
 
-[Handover Tasks & Calendar](https://www.notion.so/3af7cdb8eddb44f891242b15e828f991)
+[Tasks & Calendar](https://www.notion.so/3af7cdb8eddb44f891242b15e828f991)
 
 ---
 
