@@ -3,7 +3,7 @@
 > *Welcome!! / ¡¡Hola!!*
 > 
 
-You can visualize this full description in Notion here / Puedes visualizar esta descripción completa en Notion aquí:
+You can visualize this full description in Notion here / Puedes visualizar esta descripción completa en Notion aquí: 
 
 [ML Project Hospital Stay Description](https://www.notion.so/ML-Project-Hospital-Stay-Description-61be0eb3402b4381aebe521582fb9f64)
 
@@ -35,13 +35,13 @@ El proyecto se desarrolló en un notebook en la plataforma Google Colab, en el q
 
 ---
 
-### RESULTADOS:
-
-Los resultados del proyecto se exponen en el notebook llamado ML_HospitalStay.ipynb en este repositorio.
-
 ### RESULTS:
 
 The results of the project are displayed on the notebook called ML_HospitalStay.ipynb in this repository.
+
+### RESULTADOS:
+
+Los resultados del proyecto se exponen en el notebook llamado ML_HospitalStay.ipynb en este repositorio.
 
 *The template where this description was made is provided by Team Number 5 at Notion!* 
 
