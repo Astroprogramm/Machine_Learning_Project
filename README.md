@@ -1,6 +1,7 @@
-# ML: Hospital Stay
+# ML: Prediction on hospital stay time
 
-![https://images.unsplash.com/photo-1666214280577-5f90bc36be92?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://images.unsplash.com/photo-1666214280577-5f90bc36be92?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+
+![alt text](https://images.unsplash.com/photo-1666214280391-8ff5bd3c0bf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
 **PROJECT SUMMARY**
 
