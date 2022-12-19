@@ -1,6 +1,6 @@
 # ML: Hospital Stay
 
-![https://images.unsplash.com/photo-1624727828489-a1e03b79bba8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://images.unsplash.com/photo-1624727828489-a1e03b79bba8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![https://images.unsplash.com/photo-1666214280577-5f90bc36be92?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://images.unsplash.com/photo-1666214280577-5f90bc36be92?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
 
 **PROJECT SUMMARY**
 
@@ -15,6 +15,19 @@ To develop the model, I must categorize the patient's stay as extended if it is 
 ### PROJECT DEVELOPMENT
 
 The project was developed on a notebook on the Google Colab platform, which describes the entire EDA process (exploratory data analysis), data preparation for each model and its implementation. This notebook is provided in the file named: ‘ML_HospitalStay.ipynb’ in this repository.
+
+- **Google Colab**
+    
+    Used for running the notebook where EDA was performed as well as model training and predictions.
+    
+- **Pandas**
+    
+    To read the dataset, EDA and data manipulation for the model.
+    
+- **Scikit Learn**
+    
+    Used to train a Logistic Regression Model and a Decision Tree Classifier.
+    
 
 ---
 
@@ -39,6 +52,19 @@ Para el desarrollo del modelo debo categorizar la estadía del paciente como ext
 ### DESAROLLO DEL PROYECTO
 
 El proyecto se desarrolló en un notebook en la plataforma Google Colab, en el que se describe todo el proceso de EDA (análisis exploratorio de los datos), preparación de los datos para cada modelo y su implementación.
+
+- **Google Colab**
+    
+    Utilizado para ejecutar el notebook donde se realizó la EDA, así como el entrenamiento de modelos y predicciones.
+    
+- **Pandas**
+    
+    Para leer el conjunto de datos, EDA y manipulación de datos para el modelo.
+    
+- **Scikit Learn**
+    
+    Usado para entrenar un Modelo de Regresión Logistica y un Árbol de Clasificación.
+    
 
 ---
 
